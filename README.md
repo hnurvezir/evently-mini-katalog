@@ -1,4 +1,4 @@
-# mini_katalog
+# Evently - Mobile Event App
 
 A new Flutter project.
 
