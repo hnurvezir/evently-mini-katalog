@@ -1,16 +1,21 @@
-# Evently - Mobile Event App
+# Evently - Mobil Etkinlik Uygulaması
 
-A new Flutter project.
+Evently, Flutter ile geliştirilen mobil etkinlik uygulamasıdır.  
+Uygulama içerisinde etkinlik listeleme ekranları, detay sayfaları ve modern kullanıcı arayüzü bileşenleri bulunmaktadır.
 
-## Getting Started
+## Özellikler
+- Etkinlik listeleme
+- Etkinlik detay sayfaları
+- Modern kart tasarımı
+- Yerel görsel kullanımı
+- Mobil uyumlu arayüz
 
-This project is a starting point for a Flutter application.
+## Kullanılan Teknolojiler
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Kurulum
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
